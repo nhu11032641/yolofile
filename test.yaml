@@ -1,0 +1,5 @@
+train: /content/yolov5/data/train
+val: /content/yolov5/data/train
+
+nc: 2                               
+names: ['RhacophorusArvalis', 'taipei']
